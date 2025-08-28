@@ -1,0 +1,17 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+renv/library/
+
+# outputs (local only)
+data/
+figs/
+*.csv
+*.rds
+*.png
+
+# credentials
+.Renviron
+config/db.yml

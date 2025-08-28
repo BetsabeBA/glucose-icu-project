@@ -1,0 +1,7 @@
+# Copy to .Renviron and fill with real values. Never commit .Renviron.
+PGHOST=psql-aimahead-e2.postgres.database.azure.com
+PGDATABASE=aimahead
+PGUSER=aimahead
+PGPASSWORD=changeme
+PGPORT=5432
+OMOP_SCHEMA=omopcdmv2

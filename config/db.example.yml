@@ -1,0 +1,7 @@
+default:
+  host: psql-aimahead-e2.postgres.database.azure.com
+  dbname: aimahead
+  user: aimahead
+  password: changeme
+  port: 5432
+  schema: omopcdmv2
