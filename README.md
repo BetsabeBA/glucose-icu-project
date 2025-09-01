@@ -17,7 +17,7 @@ Derives ICU-level care chains from OMOP CDM using (1) ICU procedures, (2) IV vas
 1) **Set credentials** (project root):
    - Copy `.Renviron.example` → `.Renviron`, then edit:
      ```
-     PGHOST=psql-aimahead-e2.postgres.database.azure.com
+     PGHOST=XXX.com
      PGPORT=5432
      PGDATABASE=aimahead
      PGUSER=aimahead            # or aimahead@psql-aimahead-e2 if Azure requires it
